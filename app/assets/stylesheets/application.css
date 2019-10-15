@@ -1,0 +1,109 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+body {
+
+
+}
+
+html {
+
+  background-image: url('imac.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: palatino;
+
+}
+
+.tittle {
+
+  color: white;
+  font-size:150%;
+  padding-left: 1100px;
+  padding-top: 10%;
+
+}
+
+.tittle a {
+
+  color: white;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.home a {
+
+  background-color: #1fa9ad;
+  border-color: white;
+  text-decoration: none;
+  float: left;
+  border: 4px solid;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: white;
+  font-size: 11px;
+
+}
+
+.contact a {
+
+  background-color: #1fa9ad;
+  border-color: white;
+  text-decoration: none;
+  float: right;
+  border: 4px solid;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white;
+  font-size: 11px;
+
+}
+
+.wdlink {
+
+  border: none;
+  color: red;
+  text-decoration: none;
+
+}
+
+.portafolio a {
+
+  background-color: #1fa9ad;
+  border-color: white;
+  text-decoration: none;
+  font-size: 11px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border: 4px solid;
+  float: right;
+  color: white;
+
+}
+
+.walter a {
+
+  background-color: #1fa9ad;
+  border-color: white;
+  text-decoration: none;
+  font-size: 11px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border: 4px solid;
+  float: right;
+  color: white;
+}
