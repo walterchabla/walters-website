@@ -21,10 +21,15 @@ body {
 
 html {
 
-  background-image: url('imac.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
+  /* background-image: url('imac.jpg'); */
   font-family: palatino;
+
+}
+
+image {
+
+  background-size: cover;
+  background-repeat: no-repeat;
 
 }
 
