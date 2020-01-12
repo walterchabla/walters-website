@@ -1,6 +1,7 @@
 class ProjectsController < ApplicationController
 
-  def new 
+  def show
+
   end
 
 end

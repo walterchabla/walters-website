@@ -1,7 +1,11 @@
 class MessagesController < ApplicationController
 
+  def show
+
+  end
+
   def new
-    @message = Message.new
+
   end
 
 end
