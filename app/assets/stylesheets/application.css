@@ -13,13 +13,13 @@
  *= require_tree .
  *= require_self
  */
-
+/*
 @viewport {
 
    width: device-width ;
    zoom: 1.0 ;
 
-}
+} */
 
 html {
 
@@ -37,10 +37,10 @@ html {
   text-decoration: none;
   float: left;
   border: 3px solid;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 2%;
+  padding-left: 2%;
   color: white;
-  font-size: 8px;
+  font-size: 50%;
 
 }
 
@@ -51,10 +51,10 @@ html {
   text-decoration: none;
   float: right;
   border: 3px solid;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-right: 2%;
+  padding-left: 2%;
   color: white;
-  font-size: 8px;
+  font-size: 50%;
 
 }
 
@@ -63,12 +63,12 @@ html {
   background-color: #1fa9ad;
   border-color: white;
   text-decoration: none;
-  font-size: 8px;
-  padding-right: 15px;
-  padding-left: 15px;
-  border: 3px solid;
   float: right;
+  border: 3px solid;
+  padding-right: 2%;
+  padding-left: 2%;
   color: white;
+  font-size: 50%;
 
 }
 
@@ -77,12 +77,12 @@ html {
   background-color: #1fa9ad;
   border-color: white;
   text-decoration: none;
-  font-size: 8px;
-  padding-right: 10px;
-  padding-left: 10px;
-  border: 3px solid;
   float: right;
+  border: 3px solid;
+  padding-right: 2%;
+  padding-left: 2%;
   color: white;
+  font-size: 50%;
 }
 
 .wdlink {
@@ -105,5 +105,54 @@ html {
 
   color: white;
   text-decoration: none;
+
+}
+
+.messages-show-links {
+
+  background-color: red;
+  float: right;
+  margin-top: 2%;
+  margin-right: 40%;
+  margin-left: 30%;
+  padding: 2% 3% 2% 3%;
+  font-size: 100%;
+  text-decoration: none;
+  color: white;
+
+}
+
+a:hover {
+
+  color: black ;
+  background-color: #1296E6 ;
+
+}
+
+.messages-show-div {
+
+  background-color: #12E6D8;
+  float: right;
+  margin-top: 15%;
+  margin-right: 11%;
+  margin-left: 12%;
+  font-size: 90%;
+  padding: 1% 1% 1% 1%;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  te
+
+}
+
+img {
+
+  float: right;
+  width: 6%;
+  height: 6%;
+  padding-left: 2%;
+  margin-top: 3%;
+  margin-right: 45%;
+  margin-left: 30%;
 
 }
