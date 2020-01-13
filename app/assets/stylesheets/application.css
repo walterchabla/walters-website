@@ -34,7 +34,7 @@ html {
   padding-right: 2%;
   padding-left: 2%;
   color: white;
-  font-size: 50%;
+  font-size: 60%;
 
 }
 
@@ -48,7 +48,7 @@ html {
   padding-right: 2%;
   padding-left: 2%;
   color: white;
-  font-size: 50%;
+  font-size: 60%;
 
 }
 
@@ -62,11 +62,11 @@ html {
   padding-right: 2%;
   padding-left: 2%;
   color: white;
-  font-size: 50%;
+  font-size: 60%;
 
 }
 
-.walter a {
+.about a {
 
   background-color: #1fa9ad;
   border-color: white;
@@ -76,27 +76,21 @@ html {
   padding-right: 2%;
   padding-left: 2%;
   color: white;
-  font-size: 50%;
+  font-size: 60%;
 }
 
 .wdlink {
 
-  border: none;
   color: white;
   text-decoration: none;
 
 }
 
-.projects {
+.index {
 
   padding-top: 16%;
   padding-left: 70%;
   font-size: 120%;
-
-}
-
-.projects a {
-
   color: white;
   text-decoration: none;
 
@@ -104,13 +98,13 @@ html {
 
 .messages-show-links {
 
-  background-color: red;
+  background-color: #5995B0;
   float: right;
   margin-top: 2%;
-  margin-right: 40%;
+  margin-right: 45%;
   margin-left: 30%;
-  padding: 2% 3% 2% 3%;
-  font-size: 100%;
+  padding: 2% 2% 2% 2%;
+  font-size: 200%;
   text-decoration: none;
   color: white;
 
@@ -125,9 +119,9 @@ a:hover {
 
 .messages-show-div {
 
-  background-color: #12E6D8;
+  background-color: #ABAFC9;
   float: right;
-  margin-top: 15%;
+  margin-top: 10%;
   margin-right: 11%;
   margin-left: 12%;
   font-size: 90%;
