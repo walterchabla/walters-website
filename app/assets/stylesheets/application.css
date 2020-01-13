@@ -13,13 +13,7 @@
  *= require_tree .
  *= require_self
  */
-/*
-@viewport {
 
-   width: device-width ;
-   zoom: 1.0 ;
-
-} */
 
 html {
 
@@ -141,7 +135,6 @@ a:hover {
   text-decoration: none;
   color: black;
   text-align: center;
-  te
 
 }
 
