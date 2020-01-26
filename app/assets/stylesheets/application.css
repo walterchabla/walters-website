@@ -145,5 +145,23 @@ img {
 }
 
 h3 {
+
   color: #19DB45;
+
+}
+
+.about-show-div {
+
+  background-color: #ABAFC9;
+  float: right;
+  margin-top: 10%;
+  margin-right: 11%;
+  margin-left: 12%;
+  font-size: 90%;
+  padding: 1% 1% 1% 1%;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  font-size: 100%;
+
 }
