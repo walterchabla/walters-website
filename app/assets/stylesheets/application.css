@@ -110,16 +110,9 @@ html {
 
 }
 
-a:hover {
-
-  color: black ;
-  background-color: #1296E6 ;
-
-}
-
 .messages-show-div {
 
-  background-color: #ABAFC9;
+  background-color: #3480AB;
   float: right;
   margin-top: 5%;
   margin-right: 11%;
@@ -152,7 +145,7 @@ h3 {
 
 .about-show-div {
 
-  background-color: #ABAFC9;
+  background-color: #3480AB;
   float: right;
   margin-top: 10%;
   margin-right: 11%;
@@ -166,18 +159,31 @@ h3 {
 
 }
 
-.projects-show-div {
+.projects-div {
 
-  background-color: white;
-  float: right;
+  float: left;
+  background-color: #3480AB;
   margin-top: 10%;
   margin-right: 11%;
   margin-left: 12%;
   font-size: 90%;
   padding: 1% 1% 1% 1%;
-  text-decoration: none;
   color: black;
-  text-align: center;
   font-size: 100%;
+
+}
+
+.projects-div a {
+
+    color: white;
+    font-size: 80%;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+  color: black ;
+  background-color: #1296E6 ;
 
 }
